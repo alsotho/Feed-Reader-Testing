@@ -15,12 +15,12 @@ Whether you work in an organization that uses test-driven development or in an o
     - What is all the code in app.js doing? Be sure to read all code comments
     - Check out style.css. How is styling applied to the application?
 
-2.Explore the Jasmine spec file in feedreader.js
+2.  Explore the Jasmine spec file in feedreader.js
     - This is the file in which you'll be writing your tests
     - Make sure to read all code comments here as well
     - Review the Jasmine documentation if needed
 
-3.Edit the allFeeds variable in app.js to make the provided test fail
+3.  Edit the allFeeds variable in app.js to make the provided test fail
     - See how Jasmine visualizes this failure in your application
     - Return the allFeeds variable to a passing state after reviewing the failed test
 
